@@ -9,5 +9,5 @@
 
 **Usage**
 
-=> python3 zip_cracker.py <target_file> <wordlist>
+=> python3 zip_cracker.py <target_file> <wordlist_file>
 

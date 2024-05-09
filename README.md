@@ -1,6 +1,6 @@
 **Socials**
 
-=> Instagram - https://www.instagram.com/binarysherlock/
+=> Instagram - https://www.instagram.com/binarysherlock/<br>
 => Youtube - https://www.youtube.com/@BinarySherlock/
 
 **ZIP CRACKER**
